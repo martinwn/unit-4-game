@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    color: white;
+    background-image: url("../images/country-quilt.png");
+}
+
+.col-centered {
+    margin: 10px auto;
+}
+
+.header {
+    font-size: 40px;
+    background-color: orangered;
+    font-family: Helvetica;
+    padding: 25px 0;
+}
+
+#explanation {
+    font-size: 20px;
+    color: green;
+    background-color: bisque;
+    padding: 25px 5px;
+}
+
+#target-score {
+    color: honeydew;
+    font-size: 40px;
+    background-color: grey;
+    padding: 25px 5px;
+    margin: 10px 5px;
+}
+
+#wins-losses {
+    font-size: 20px;
+    background-color: tomato;
+    padding: 25px 5px;
+    margin: 10px 5px;
+    line-height: 25px;
+}
+
+img {
+    width: 100%;
+}
+
+#total-score-is {
+    font-size: 20px;
+    background-color: darkkhaki;
+    padding: 5px;
+}
+
+#user-score {
+    padding: 25px;
+    font-size: 40px;
+    background-color: wheat;
+}
